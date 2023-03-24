@@ -2,8 +2,8 @@
 color F0
 title Hera Virus 7.1
 echo _____________________________________________________________________
-echo Hera Virus 7.1 (Trust Edtion)
-echo Created by OCID (now known as the Acceleration Team)
+echo Hera Virus 7.1
+echo Created by a-blob
 echo _____________________________________________________________________
 echo 			@@@@@@@@@@@@@@@@@@@@
 echo 			@                  @
