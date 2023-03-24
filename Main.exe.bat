@@ -1,8 +1,8 @@
 @echo off
 color F0
-title Hera Virus 7.1
+title Hera Virus 8.0
 echo _____________________________________________________________________
-echo Hera Virus 7.1
+echo Hera Virus 8.0
 echo Created by a-blob
 echo _____________________________________________________________________
 echo 			@@@@@@@@@@@@@@@@@@@@
