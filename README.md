@@ -1,4 +1,5 @@
 # Hera-Virus
+(Not an actual virus)
 **IMPORTANT: If you directly download the zip file into a virtual machine and unzip it, Windows will prevent the .bat and .vbs scripts from running. Instead, downlaod the zip to your actual computer and copy it into the virtual machine for it to run properly.**
 
 This is a simple program that displays a series of message windows and crashes your computer when you restart it. Still, it's not recommended to run this on your computer unless you want you want to cause some trouble.
