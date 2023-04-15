@@ -1,4 +1,6 @@
 # Hera-Virus-Stable
+**IMPORTANT: If you directly download the zip file into a virtual machine and unzip it, Windows will prevent the .bat and .vbs scripts from running. Instead, downlaod the zip to your actual computer and copy it into the virtual machine for it to run properly.**
+
 Simple Malware Program. Please do not run this on your PC unless you want it broken.
 
 error.vbs, Displays a simple fake error message. You can end it easily with Task Manager.
