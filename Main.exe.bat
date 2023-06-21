@@ -37,7 +37,7 @@ pause
 
 cls
 echo _____________________________________________________________________
-echo This program will harm your computer!
+echo This program will cause trouble on your computer!
 echo _____________________________________________________________________
 echo 			@@@@@@@@@@@@@@@@@@@@
 echo 			@        @@        @
@@ -54,7 +54,7 @@ pause
 
 cls
 echo _____________________________________________________________________
-echo The creators of this program will not be responsible for the damage
+echo The creators of this program will not be responsible for any damage
 echo caused by this program to your computer.
 echo _____________________________________________________________________
 echo 			@@@@@@@@@@@@@@@@@@@@
@@ -72,7 +72,7 @@ pause
 
 cls
 echo _____________________________________________________________________
-echo I recommend you to close this program now.
+echo It is not recommended to run this on your acutal computer.
 echo _____________________________________________________________________
 echo 			@@@@@@@@@@@@@@@@@@@@
 echo 			@        @@        @
@@ -90,7 +90,7 @@ pause
 
 cls
 echo _____________________________________________________________________
-echo Oh, so you are still here, decided to risk it?
+echo Oh, so you are still here, want to try it?
 echo _____________________________________________________________________
 echo 			@@@@@@@@@@@@@@@@@@@@
 echo 			@      @@@@@@      @
@@ -109,7 +109,7 @@ cls
 color 47
 echo _____________________________________________________________________
 echo Alright then, press Y and Enter to continue.
-echo Remember, I warned you already
+echo If not, press N.
 echo _____________________________________________________________________
 echo 			@@@@@@@@@@@@@@@@@@@@
 echo 			@        @@        @
