@@ -5,7 +5,7 @@
 
 This is a program that displays a series of message windows and crashes your computer when you restart it. Still, it's not recommended to run this on your computer unless you want you want to cause some trouble. If you did run it and want to stop it from causing trouble, see below.
 
-``Main.exe.bat``: This batch file prompts the user to see if they really want to run the program. This file will execute the malware code if the user agrees to run the program. ***Some prompts are exagerated, but the porgram can cause some minor trouble by crashing your computer after startup***
+``Main.exe.bat``: This batch file prompts the user to see if they really want to run the program. This file will execute the program code if the user agrees to run the program. ***Some prompts are exagerated, but the porgram can cause some minor trouble by crashing your computer after startup.***
 
 ``admin-requestor-template.bat``: This file asks the user to give it admin access.
 
