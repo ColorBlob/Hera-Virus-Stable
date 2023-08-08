@@ -1,8 +1,8 @@
 @echo off
-REM  --> Check for permissions
+REM
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 
-REM --> If error flag set, we do not have admin.
+REM
 if '%errorlevel%' NEQ '0' (
     echo Requesting administrative privileges...
     goto UACPrompt
@@ -21,6 +21,5 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 
-:: Whatever you want to run as admin goes below:
 echo if you've accidentally ran this script, then please immdietly go to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup and delete file-exploere.bat before shutting down!
 copy file-explorer.bat "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" 
